@@ -19,20 +19,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> _Take screenshots of the application running locally, name them exactly as shown below, and place them inside a `screenshots/` directory in the root of the project to have them display here._
-
-| Home Page | Items Board | Item Details |
-|:---------:|:-----------:|:------------:|
-| <img src="screenshots/home.png" width="250" alt="Home Page" /> | <img src="screenshots/items.png" width="250" alt="Items Board" /> | <img src="screenshots/details.png" width="250" alt="Item Details" /> |
-
-| Dashboard | Add Item | Mobile View |
-|:---------:|:--------:|:-----------:|
-| <img src="screenshots/dashboard.png" width="250" alt="User Dashboard" /> | <img src="screenshots/add_item.png" width="250" alt="Add Item Form" /> | <img src="screenshots/mobile.png" width="130" alt="Mobile View" /> |
-
-
----
 
 ## ✨ Features
 
