@@ -24,7 +24,7 @@ import NotFound from './pages/NotFound';
 
 function App() {
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       <AuthProvider>
         <div className="flex flex-col min-h-screen bg-slate-50 text-slate-900">
           {/* Header Component */}
